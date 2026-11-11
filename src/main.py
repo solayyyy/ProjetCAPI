@@ -1,6 +1,6 @@
 import sys
-from Models import Backlog
-from src.cli import saisir_joueurs
+from models import Backlog
+from cli import saisir_joueurs
 
 
 

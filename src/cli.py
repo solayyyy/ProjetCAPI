@@ -1,5 +1,5 @@
 import getpass
-from src.models import CARTES_VALIDEES, Backlog, Fonctionnalite, SessionPoker
+from models import CARTES_VALIDEES, Backlog, Fonctionnalite, SessionPoker
 
 
 def saisir_joueurs() -> list[str]:
